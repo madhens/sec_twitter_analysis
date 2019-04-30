@@ -3,10 +3,10 @@
 import tweepy 
 import jsonpickle
 
-access_token = '1443159397-ivrcjGf5VLhWnCJ2F3jox7uAYvAHoUmSsvclqMK'
-access_token_secret = '3xLauhdILcwzja7fPQQAaC3QDV5rGhtPkVESIE0j6GotA'
-consumer_key = 'sFzJ4eaEeF5Arb08178YYjsvx'
-consumer_secret = 'TzTvxksIg9fk8f8Y7gIN4DzPZillXLVAbGXugaVfeK9GAFcd5x'
+access_token = ''
+access_token_secret = ''
+consumer_key = ''
+consumer_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 
